@@ -73,3 +73,9 @@ h1 {
     padding-top: 5px;
     font-size: 25px;
 }
+
+.footer {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 30px;
+}
